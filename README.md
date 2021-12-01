@@ -35,17 +35,17 @@ teb_local_planner package是2D导航的base_local_planner的一个插件，称�
 
 称为“Timed-Elastic-Band”的方法在下面两篇论文中有介绍：
 
-- C. Rösmann, W. Feiten, T. Wösch, F. Hoffmann and T. Bertram: Trajectory modification considering dynamic constraints of autonomous robots. Proc. 7th German Conference on Robotics, Germany, Munich, 2012, pp 74–79.
-- C. Rösmann, W. Feiten, T. Wösch, F. Hoffmann and T. Bertram: Efficient trajectory optimization using a sparse model. Proc. IEEE European Conference on Mobile Robots, Spain, Barcelona, 2013, pp. 138–143.
+- C. Rösmann, W. Feiten, T. Wösch, F. Hoffmann and T. Bertram: Trajectory modification considering dynamic constraints of autonomous robots. Proc. 7th German Conference on Robotics, Germany, Munich, 2012, pp 74–79.[中文翻译](papers/Trajectory_modification_considering_dynamic_constraints_of_autonomous_robots_2012.md), [英文原文](papers/Trajectory_modification_considering_dynamic_constraints_of_autonomous_robots_2012.pdf)
+- C. Rösmann, W. Feiten, T. Wösch, F. Hoffmann and T. Bertram: Efficient trajectory optimization using a sparse model. Proc. IEEE European Conference on Mobile Robots, Spain, Barcelona, 2013, pp. 138–143.[英文原文](papers/Efficient_trajectory_optimization_using_a_sparse_model.pdf)
 
 由于诸如 Timed-Elastic-Band 之类的局部规划器经常陷入局部最优轨迹，因为它们无法穿越障碍物，因此实施了扩展。并行优化独特拓扑的可接受轨迹的子集。局部规划器能够在候选集合中切换到当前的全局最优轨迹。通过利用同源/同伦类的概念获得独特的拓扑。以下论文描述了该方法
 
-- C. Rösmann, F. Hoffmann and T. Bertram: Integrated online trajectory planning and optimization in distinctive topologies, Robotics and Autonomous Systems, Vol. 88, 2017, pp. 142–153.
-- C. Rösmann, F. Hoffmann and T. Bertram: Planning of Multiple Robot Trajectories in Distinctive Topologies, Proc. IEEE European Conference on Mobile Robots, UK, Lincoln, Sept. 2015
+- C. Rösmann, F. Hoffmann and T. Bertram: Integrated online trajectory planning and optimization in distinctive topologies, Robotics and Autonomous Systems, Vol. 88, 2017, pp. 142–153. [英文原文](papers/Integrated_online_trajectory_planning_and_optimization_in_distinctive_topologies.pdf)
+- C. Rösmann, F. Hoffmann and T. Bertram: Planning of Multiple Robot Trajectories in Distinctive Topologies, Proc. IEEE European Conference on Mobile Robots, UK, Lincoln, Sept. 2015 [英文原文](papers/Planning_of_multiple_robot_trajectories_in_distinctive_topologies.pdf)
 
 对类似汽车的机器人的扩展描述在：
 
-- C. Rösmann, F. Hoffmann and T. Bertram: Kinodynamic Trajectory Optimization and Control for Car-Like Robots, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, Canada, Sept. 2017.
+- C. Rösmann, F. Hoffmann and T. Bertram: Kinodynamic Trajectory Optimization and Control for Car-Like Robots, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, Canada, Sept. 2017. [英文原文](papers/Kinodynamic_Trajectory_Optimization_and_Control_for_Car_Like_Robots.pdf)
 
 
 
