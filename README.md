@@ -6,6 +6,8 @@
 
 [costmap和teb的介绍-比较有意思](https://www.leiphone.com/category/transportation/0TCtaBOIcFOIBN69.html)
 
+[mooc teb算法介绍](https://www.icourse163.org/learn/ZJU-1206447854?tid=1465429550#/learn/content?type=detail&id=1244596402),对应的ppt:[PPT](Mooc_ElasticBand.pdf)
+
 # teb_local_planner官方Summary翻译
 
 参考链接：[teb_local_planner官方summary](http://wiki.ros.org/teb_local_planner)
