@@ -184,14 +184,14 @@ $$
 
 ## 参考文献：
 
-[1] S. M. LaV alle.Planning Algorithms, Cambridge University Press, Cambridge, U.K., 2006.
-[2] Quinlan, S.; Khatib, O.Elastic Bands: Connecting Path Planning and Control, IEEE Int. Conf. on Robotics and Automation (ICRA) (2), 1993
-[3] Quinlan, S.Real-time modification of collision-free paths, PhD thesis, Stanford University, 1994
-[4] Khatib, M.Sensor-based motion control for mobile robots, Laboratoire d’Automatique et d’Analyse des Systèmes LAAS-CNRS, 1996
-[5] Khatib, M. et al.Dynamic Path Modification for Car-Like Nonholonomic Mobile Robots, IEEE Int. Conf. on Robotics and Automation (ICRA), 1997
-[6] Graf, B.; Wandosell, J.M.H.; Schaeffer, C.Flexible Path Planning for Nonholonomic Mobile Robots, Fraunhofer Institute Manufacturing Engineering and Automation (IPA), 2001
-[7] Brock, O.; Khatib, O.Executing Motion Plans for Robots with Many Degrees of Freedom in Dynamic Environments, IEEE Int. Conf. on Robotics and Automation (ICRA), 1998, pp. 1-6
-[8] Fiorini, P .; Shiller, Z.Motion planning in dynamic environments using velocity obstacles, International Journal on Robotics Research, V ol. 17, No. 7, July 1998, pp. 760-772
-[9] Kavraki, L.E. et al.Probabilistic roadmaps for path planning in high-dimensional configuration spaces, IEEE Transactions on Robotics and Automation, V ol. 12, No.4, August 1996, pp.566-580
-[10] Reeds, J.A.; Shepp L.A.Optimal paths for a car that goes both forwards and backwards, Pacific Journal of Mathematics, Vol. 145, No. 2, 1990, pp. 367-393
-[11] Kümmerle, R. et al.g2o: A General Framework for Graph Optimization, Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), May 2011
+[1] S. M. LaV alle.Planning Algorithms, Cambridge University Press, Cambridge, U.K., 2006.  
+[2] Quinlan, S.; Khatib, O.Elastic Bands: Connecting Path Planning and Control, IEEE Int. Conf. on Robotics and Automation (ICRA)  (2), 1993  
+[3] Quinlan, S.Real-time modification of collision-free paths, PhD thesis, Stanford University, 1994  
+[4] Khatib, M.Sensor-based motion control for mobile robots, Laboratoire d’Automatique et d’Analyse des Systèmes LAAS-CNRS, 1996  
+[5] Khatib, M. et al.Dynamic Path Modification for Car-Like Nonholonomic Mobile Robots, IEEE Int. Conf. on Robotics and Automation (ICRA), 1997  
+[6] Graf, B.; Wandosell, J.M.H.; Schaeffer, C.Flexible Path Planning for Nonholonomic Mobile Robots, Fraunhofer Institute Manufacturing Engineering and Automation (IPA), 2001  
+[7] Brock, O.; Khatib, O.Executing Motion Plans for Robots with Many Degrees of Freedom in Dynamic Environments, IEEE Int. Conf. on Robotics and Automation (ICRA), 1998, pp. 1-6  
+[8] Fiorini, P .; Shiller, Z.Motion planning in dynamic environments using velocity obstacles, International Journal on Robotics Research, V ol. 17, No. 7, July 1998, pp. 760-772  
+[9] Kavraki, L.E. et al.Probabilistic roadmaps for path planning in high-dimensional configuration spaces, IEEE Transactions on Robotics and Automation, V ol. 12, No.4, August 1996, pp.566-580  
+[10] Reeds, J.A.; Shepp L.A.Optimal paths for a car that goes both forwards and backwards, Pacific Journal of Mathematics, Vol. 145, No. 2, 1990, pp. 367-393  
+[11] Kümmerle, R. et al.g2o: A General Framework for Graph Optimization, Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), May 2011   

@@ -98,29 +98,29 @@ x表示要优化的参数，z_ij表示两个参数块之间的约束，x_i和x_j
 
 ## 参考文献：
 
-[1] S. M. LaV alle, ”Planning Algorithms”. Cambridge University Press,Cambridge, U.K., 2006.
+[1] S. M. LaV alle, ”Planning Algorithms”. Cambridge University Press,Cambridge, U.K., 2006.  
 
-[2] S. Quinlan, O. Khatib, ”Elastic Bands: Connecting Path Planning and Control”, in Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), pp. 802-807, 1993.
+[2] S. Quinlan, O. Khatib, ”Elastic Bands: Connecting Path Planning and Control”, in Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), pp. 802-807, 1993.  
 
-[3] S. Quinlan, ”Real-time modification of collision-free paths”, PhD thesis, Stanford University, 1994.
-[4] M. Khatib, ”Sensor-based motion control for mobile robots”, Labora- toire d’Automatique et d’Analyse des Systèmes LAAS-CNRS, 1996.
+[3] S. Quinlan, ”Real-time modification of collision-free paths”, PhD thesis, Stanford University, 1994.  
+[4] M. Khatib, ”Sensor-based motion control for mobile robots”, Labora- toire d’Automatique et d’Analyse des Systèmes LAAS-CNRS, 1996.  
 [5] M. Khatib, H. Jaouni, R. Chatila, J. P. Laumond, ”Dynamic Path Modification for Car-Like Nonholonomic Mobile Robots”, in Proc.
-of the IEEE Int. Conf. on Robotics and Automation (ICRA), 1997.
-[6] B. Graf, J. M. H. Wandosell, C. Schaeffer, ”Flexible Path Planning for Nonholonomic Mobile Robots”, Fraunhofer Institute Manufacturing Engineering and Automation (IPA), 2001.
-[7] O. Brock, O. Khatib, ”Executing Motion Plans for Robots with Many Degrees of Freedom in Dynamic Environments”, in Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), pp. 1-6, 1998.
-[8] F. Lamiraux, D. Bonnafous, O. Lefebvre, ”Reactive path deformation for nonholonomic mobile robots”, in IEEE Transactions on Robotics, Vol. 20, No. 6, pp. 967-977, 2004.
-[9] H. Kurniawati, T. Fraichard, ”From path to trajectory deformation”, IEEE/RSJ Intl. Conference on Intelligent Robots and Systems (IROS), pp. 159-164, 2007.
-[10] V. Delsart, T. Fraichard, ”Reactive Trajectory Deformation to Navigate Dynamic Environments”, in Proc. of the Second European Robotics Symposium (EUROS), Vol. 44, pp. 233-241, 2008.
+of the IEEE Int. Conf. on Robotics and Automation (ICRA), 1997.  
+[6] B. Graf, J. M. H. Wandosell, C. Schaeffer, ”Flexible Path Planning for Nonholonomic Mobile Robots”, Fraunhofer Institute Manufacturing Engineering and Automation (IPA), 2001.  
+[7] O. Brock, O. Khatib, ”Executing Motion Plans for Robots with Many Degrees of Freedom in Dynamic Environments”, in Proc. of the IEEE Int. Conf. on Robotics and Automation (ICRA), pp. 1-6, 1998.  
+[8] F. Lamiraux, D. Bonnafous, O. Lefebvre, ”Reactive path deformation for nonholonomic mobile robots”, in IEEE Transactions on Robotics, Vol. 20, No. 6, pp. 967-977, 2004.  
+[9] H. Kurniawati, T. Fraichard, ”From path to trajectory deformation”, IEEE/RSJ Intl. Conference on Intelligent Robots and Systems (IROS), pp. 159-164, 2007.  
+[10] V. Delsart, T. Fraichard, ”Reactive Trajectory Deformation to Navigate Dynamic Environments”, in Proc. of the Second European Robotics Symposium (EUROS), Vol. 44, pp. 233-241, 2008.  
 [11] B. Lau, C. Sprunk, W. Burgard, ”Kinodynamic Motion Planning for Mobile Robots Using Splines”, IEEE/RSJ Intl. Conference on
-Intelligent Robots and Systems (IROS), pp. 2427-2433, 2009.
-[12] C. Sprunk et al. ”Online Generation of Kinodynamic Trajectories for Non-Circular Omnidirectional Robots”, in Proc. of the IEEE Intl. Conference on Robotics and Automation (ICRA), pp. 72-77, 2011.
-[13] C. Sprunk et al., ”Improved Non-linear Spline Fitting for Teaching Trajectories to Mobile Robots”, in Proc. of the IEEE Intl. Conference on Robotics and Automation (ICRA), pp. 2068-2073, 2012.
-[14] J. Mattingley, Y. Wang, S. Boyd, ”Receding Horizon Control: Automatic Generation of High-Speed Solvers”, in IEEE Control Systems Magazine, Vol. 31, No. 3, pp. 52-65, 2011.
-[15] N. Ratliff et al. ”CHOMP: Gradient Optimization Techniques for Efficient Motion Planning”, in IEEE Intl. Conference on Robotics and Automation (ICRA), May 2009.
-[16] M. Kalakrishnan et al. ”STOMP: Stochastic trajectory optimization for motion planning”, in IEEE Intl. Conference on Robotics and Automation (ICRA), pp. 4569-4574, May 2011.
-[17] C. Rösmann et al. ”Trajectory modification considering dynamic constraints of autonomous robots”, in Proceedings of the 7th German Conference on Robotics (ROBOTIK 2012). May 2012.
-[18] K. Konolige, ”Sparse Bundle Adjustment”, in F. Labrosse et al.,editors, Proc. of the British Machine Vision Conference, pages 102.1-102.11. BMVA Press, September 2010.
-[19] R. Kümmerle et al., ”g2o: A general framework for graph optimization”, in Proc. of the IEEE Intl. Conf. on Robotics and Automation (ICRA), Shanghai, China, May 2011.
-[20] P. R. Amestoy, T. A. Davis, and I. S. Duff, ”Algorithm 837: Amd, an approximate minimum degree ordering algorithm.”, in ACM Trans. Math. Softw. vol. 30, pp. 381-388, September 2004.
-[21] Y. Chen et al., ”Alogithm 887: Cholmod, supernodal sparse cholesky factorization and update/downdate”, in ACM Trans. Math. Softw. vol. 35, pp: 22:1-22:14, October 2008.
-[22] L. E. Kavraki et al., ”Probabilistic roadmaps for path planning in high-dimensional configuration spaces”, in IEEE Transactions on Robotics and Automation, Vol. 12, No.4, pp.566-580, August 1996.
+Intelligent Robots and Systems (IROS), pp. 2427-2433, 2009.  
+[12] C. Sprunk et al. ”Online Generation of Kinodynamic Trajectories for Non-Circular Omnidirectional Robots”, in Proc. of the IEEE Intl. Conference on Robotics and Automation (ICRA), pp. 72-77, 2011.  
+[13] C. Sprunk et al., ”Improved Non-linear Spline Fitting for Teaching Trajectories to Mobile Robots”, in Proc. of the IEEE Intl. Conference on Robotics and Automation (ICRA), pp. 2068-2073, 2012.  
+[14] J. Mattingley, Y. Wang, S. Boyd, ”Receding Horizon Control: Automatic Generation of High-Speed Solvers”, in IEEE Control Systems Magazine, Vol. 31, No. 3, pp. 52-65, 2011.  
+[15] N. Ratliff et al. ”CHOMP: Gradient Optimization Techniques for Efficient Motion Planning”, in IEEE Intl. Conference on Robotics and Automation (ICRA), May 2009.  
+[16] M. Kalakrishnan et al. ”STOMP: Stochastic trajectory optimization for motion planning”, in IEEE Intl. Conference on Robotics and Automation (ICRA), pp. 4569-4574, May 2011.  
+[17] C. Rösmann et al. ”Trajectory modification considering dynamic constraints of autonomous robots”, in Proceedings of the 7th German Conference on Robotics (ROBOTIK 2012). May 2012.  
+[18] K. Konolige, ”Sparse Bundle Adjustment”, in F. Labrosse et al.,editors, Proc. of the British Machine Vision Conference, pages 102.1-102.11. BMVA Press, September 2010.  
+[19] R. Kümmerle et al., ”g2o: A general framework for graph optimization”, in Proc. of the IEEE Intl. Conf. on Robotics and Automation (ICRA), Shanghai, China, May 2011.  
+[20] P. R. Amestoy, T. A. Davis, and I. S. Duff, ”Algorithm 837: Amd, an approximate minimum degree ordering algorithm.”, in ACM Trans. Math. Softw. vol. 30, pp. 381-388, September 2004.  
+[21] Y. Chen et al., ”Alogithm 887: Cholmod, supernodal sparse cholesky factorization and update/downdate”, in ACM Trans. Math. Softw. vol. 35, pp: 22:1-22:14, October 2008.  
+[22] L. E. Kavraki et al., ”Probabilistic roadmaps for path planning in high-dimensional configuration spaces”, in IEEE Transactions on Robotics and Automation, Vol. 12, No.4, pp.566-580, August 1996.  
